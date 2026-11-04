@@ -22,6 +22,5 @@ BUG-001: Missing email should be 400 but got 201 - Severity High
 BUG-003: Insufficient funds should be 400 but got 201 - Severity Critical
 
 ## Screenshots
-## Screenshots
 ![Result 1](https://github.com/easylife4ft/Banking-App-API-QA/blob/main/Run_%20result%20001.jpg)
 ![Result 2](https://github.com/easylife4ft/Banking-App-API-QA/blob/main/Run_result%20_002.jpg)
